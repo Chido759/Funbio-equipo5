@@ -1,6 +1,6 @@
 ﻿### FUNBIO-EQUIPO5
 ![Alt text](https://cayetano.edu.pe/wp-content/uploads/2022/09/web2023_admision-600x500-copia-6.png)
-# Group 5
+# Grupo 5
 
 This document provides information about the group members and their associations.
 
